@@ -7,23 +7,45 @@ Wang, Y., and B. Rannala, 2008 Bayesian inference of fine-scale recombination ra
 Wang, Y., and B. Rannala, 2009 Population genomic inference of recombination rates and hotspots. Proc. Natl. Acad. Sci. USA
 Badri Padhukasahasram and Bruce Rannala 2011 Bayesian population genomic inference of crossing-over and gene-conversion. Genetics
 Badri Padhukasahasram and Bruce Rannala 2013 Meiotic gene-conversion rate and tract  length variation in the human genome. EJHG
+
+
 Input File Format
+
+
 1
+
+
 h
 
 10
+
+
+
 15
+
 A T T C C G A C G G A G A C A
+
 T A G C G G C C G C A A A C T
+
 A T T C G G A T G C A A A C A
+
 A T G C C G C C G C A A A C A
+
 A A G C C G C T C C A G C C A
+
 A T T C C G A T G C C G C A T
+
 A A G C C G C T C C A G C C A
+
 A T G C G A A T G C C G C A T
+
 T A G C G G C C G C A G C C T
+
 A A G C G G C C G C A G C C T
+
 1530 1607 2123 2695 2937 3859 5148 6017 6335 6568 6693 6705 7769 8206 9285
+
+
 
 
 The input file has to be in the following format:
