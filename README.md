@@ -24,7 +24,6 @@ h
 15
 
 A T T C C G A C G G A G A C A
-
 T A G C G G C C G C A A A C T
 
 A T T C G G A T G C A A A C A
