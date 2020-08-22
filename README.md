@@ -60,6 +60,7 @@ Lines 5: Number of Markers in the sample.
 For haplotype data, each subsequent line represents the haplotype of an individual in the sample.
 For genotype data, consecutive 2 lines represent a single individual with each base of a genotyped marker in each line corresponding to the marker location.
 The bases at different marker positions should be separated by spaces. “N” must be used for denoting missing data at a base position.
+
 Last line: Positions of markers in the sample separated by spaces.
 We also suggest omitting SNPs with minor allele frequency < 10% from your data and applying the program to short windows in your dataset (e.g. 5-7 kb).
 
