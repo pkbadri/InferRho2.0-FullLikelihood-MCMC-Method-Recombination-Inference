@@ -8,6 +8,10 @@ Starts, Ends and Intensities of hotspots are output in the .hotsp output files.
 
 We suggest omitting SNPs with minor allele frequency < 10% and applying the program to short windows in your dataset (e.g. 5-7 kb).
 
+
+
+
+
 References
 Wang, Y., and B. Rannala, 2008 Bayesian inference of fine-scale recombination rates using population genomic data. Philos. Trans. R. Soc. B
 
