@@ -10,8 +10,14 @@ We suggest omitting SNPs with minor allele frequency < 10% and applying the prog
 
 References
 Wang, Y., and B. Rannala, 2008 Bayesian inference of fine-scale recombination rates using population genomic data. Philos. Trans. R. Soc. B
+
+
 Wang, Y., and B. Rannala, 2009 Population genomic inference of recombination rates and hotspots. Proc. Natl. Acad. Sci. USA
+
+
 Badri Padhukasahasram and Bruce Rannala 2011 Bayesian population genomic inference of crossing-over and gene-conversion. Genetics
+
+
 Badri Padhukasahasram and Bruce Rannala 2013 Meiotic gene-conversion rate and tract  length variation in the human genome. EJHG
 
 
